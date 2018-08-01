@@ -1,0 +1,1 @@
+Sets of Clover files for successful install Mas OS on PC
